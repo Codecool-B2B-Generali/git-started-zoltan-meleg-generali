@@ -1,0 +1,5 @@
+# filter temp folder
+temp/
+
+# filter tmp extension
+*.tmp
