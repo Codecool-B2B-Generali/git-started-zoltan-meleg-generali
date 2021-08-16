@@ -1,0 +1,29 @@
+commit cbad4cf1a538c08b0a0b81a9c092846412ee93c5 (HEAD -> main, origin/main, origin/HEAD)
+Author: Meleg Zoltán <zoltan.meleg@generali.com>
+Date:   Mon Aug 16 11:28:04 2021 +0200
+
+    renamed lorem.txt to lorem_ipsum.txt
+
+commit 348064afd71ccdcd4a6375889644f56408fb7e37
+Author: Meleg Zoltán <zoltan.meleg@generali.com>
+Date:   Mon Aug 16 11:24:13 2021 +0200
+
+    added 3 more sentences to lorem.txt
+
+commit bcffd8d74eb6d54fa4aeca6334e81b0e1dd659e6
+Author: Meleg Zoltán <zoltan.meleg@generali.com>
+Date:   Mon Aug 16 11:17:34 2021 +0200
+
+    added lorem.txt
+
+commit dac05fe0ec0e88785078767d31b65f2a306ccc35
+Author: Meleg Zoltán <zoltan.meleg@generali.com>
+Date:   Mon Aug 16 11:05:35 2021 +0200
+
+    add gitignore
+
+commit 8a748c90ed19cf4211f7935641a84c7dad6bd13f
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Aug 16 08:14:47 2021 +0000
+
+    Initial commit
